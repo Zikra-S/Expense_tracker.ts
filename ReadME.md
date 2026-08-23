@@ -12,3 +12,16 @@ A lightweight command-line expense tracker built with **TypeScript**. It helps c
 
 Make sure you have [Node.js](https://nodejs.org/) installed along with `typescript` and `ts-node`:
 
+```bash
+npm install -g typescript ts-node
+How to Run
+1. Direct execution:
+
+Bash
+ts-node expenses.ts
+2. Compile and run JS output:
+
+Bash
+tsc expenses.ts
+node expenses.js
+
